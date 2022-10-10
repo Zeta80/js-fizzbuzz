@@ -21,3 +21,4 @@ for (let i = 1; i < 101; i++) {
     const cell = `<div class="cell col ${fizzBuzz}">${text}</div>`;
     row.innerHTML += cell;
 }
+// JAVASASSONE ヾ(⌐■_■)ノ♪🗿
