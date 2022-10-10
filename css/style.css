@@ -1,0 +1,33 @@
+h1 {
+    font-size: 5rem;
+    margin-bottom: 0.6em;
+    color: white;
+}
+
+.ms_bg {
+    background-color: #083b4c;
+}
+
+.cell {
+    height: 100px;
+    background-color: #1389b2;
+    border: 2px solid black;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.fizz {
+    background-color: #0bd6a1;
+}
+
+.buzz {
+    background-color: #ffd166;
+}
+
+.fizzbuzz {
+    background-color: #f0466f;
+    color: white;
+}
